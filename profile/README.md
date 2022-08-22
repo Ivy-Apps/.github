@@ -21,7 +21,7 @@ and free software that can make the world a better place.
 - Decentralization.
 - Having the right to do what you believe in, not what you're told to.
 
-** You can find out business model [here](https://github.com/Ivy-Apps/.github/blob/main/Ivy-Apps-Business-Model.md). **
+**You can find out business model [here](https://github.com/Ivy-Apps/.github/blob/main/Ivy-Apps-Business-Model.md).**
 
 ## Our Apps
 

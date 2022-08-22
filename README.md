@@ -5,8 +5,6 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ILIYANGERMANOV/ivy-wallet/blob/main/CONTRIBUTING.md)
 
-# [Ivy Wallet: money manager](https://play.google.com/store/apps/details?id=com.ivy.wallet)
-
 ## Ideology :earth_africa:
 
 We believe that people _(not corporations or business entities)_ can create innovative, open-source,
@@ -26,6 +24,10 @@ and free software that can make the world a better place.
 - Challenging the status quo.
 - Decentralization.
 - Having the right to do what you believe in, not what you're told to.
+
+## Our Apps
+
+- ### [Ivy Wallet: money manager](https://play.google.com/store/apps/details?id=com.ivy.wallet)
 
 ## Community
 

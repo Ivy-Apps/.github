@@ -1,5 +1,5 @@
-[![Lint](https://github.com/ILIYANGERMANOV/ivy-wallet/actions/workflows/lint.yml/badge.svg)](https://github.com/ILIYANGERMANOV/ivy-wallet/actions/workflows/lint.yml)
-[![Internal Release](https://github.com/ILIYANGERMANOV/ivy-wallet/actions/workflows/internal_release.yml/badge.svg)](https://github.com/ILIYANGERMANOV/ivy-wallet/actions/workflows/internal_release.yml)
+[![TEST](https://github.com/ILIYANGERMANOV/ivy-wallet/actions/workflows/lint.yml/badge.svg)](https://github.com/ILIYANGERMANOV/ivy-wallet/actions/workflows/lint.yml)
+[![Build](https://github.com/ILIYANGERMANOV/ivy-wallet/actions/workflows/internal_release.yml/badge.svg)](https://github.com/ILIYANGERMANOV/ivy-wallet/actions/workflows/internal_release.yml)
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ILIYANGERMANOV/ivy-wallet/blob/main/CONTRIBUTING.md)

@@ -1,3 +1,6 @@
+# Welcome to Ivy Apps 
+#### We Build innovative and easy-to-use apps that matter.
+
 ## Ideology :earth_africa:
 
 We believe that people _(not corporations or business entities)_ can create innovative, open-source,

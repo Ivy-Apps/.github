@@ -1,9 +1,9 @@
 # Welcome to Ivy Apps 
-#### We Build innovative and easy-to-use apps that matter.
+**We build innovative and easy-to-use apps that matter.**
 
 ## Ideology :earth_africa:
 
-We believe that people _(not corporations or business entities)_ can create innovative, open-source,
+We believe that people _(not corporations)_ can create innovative, open-source,
 and free software that can make the world a better place.
 
 **We want Ivy to be:**
@@ -21,29 +21,19 @@ and free software that can make the world a better place.
 - Decentralization.
 - Having the right to do what you believe in, not what you're told to.
 
-**You can find out business model [here](https://github.com/Ivy-Apps/.github/blob/main/Ivy-Apps-Business-Model.md).**
-
 ## Our Apps
 
 - ### [Ivy Wallet: money manager](https://play.google.com/store/apps/details?id=com.ivy.wallet)
-   [![Latest Release](https://img.shields.io/github/v/release/iliyangermanov/ivy-wallet)](https://github.com/ILIYANGERMANOV/ivy-wallet/releases)
-   [![TEST](https://github.com/ILIYANGERMANOV/ivy-wallet/actions/workflows/test.yml/badge.svg)](https://github.com/ILIYANGERMANOV/ivy-wallet/actions/workflows/lint.yml)
-   [![Build](https://github.com/ILIYANGERMANOV/ivy-wallet/actions/workflows/build.yml/badge.svg)](https://github.com/ILIYANGERMANOV/ivy-wallet/actions/workflows/internal_release.yml)
-
+   [![Latest Release](https://img.shields.io/github/v/release/Ivy-Apps/ivy-wallet)](https://github.com/Ivy-Apps/ivy-wallet/releases)
+   [![Build](https://github.com/Ivy-Apps/ivy-wallet/actions/workflows/build.yml/badge.svg)](https://github.com/Ivy-Apps/ivy-wallet/actions/workflows/build.yml)
   [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-  [![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ILIYANGERMANOV/ivy-wallet/blob/main/CONTRIBUTING.md)
+  [![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Ivy-Apps/ivy-wallet/blob/main/CONTRIBUTING.md)
 
 ## Community
 
-Be the change! Join our [Telegram community](https://t.me/+ETavgioAvWg4NThk), comment on GitHub, and
+Be the change! Join our [Telegram community](https://t.me/+ETavgioAvWg4NThk), comment on our [GitHub repo](https://github.com/Ivy-Apps/ivy-wallet), and
 tell us how we can create a better environment for developers & creators to work together.
 
 ### [Ivy Telegram Community](https://t.me/+ETavgioAvWg4NThk)
 
 ### [Ivy Telegram News](https://t.me/ivywallet)
-
-## Ivy Developer Guidelines
-
-A short and helpful guide on Android Architecture, Functional Reactive Programming (FRP) and Ivy best practices - **[Ivy Developer Guidelines](docs/Developer-Guidelines.md)**.
-
-> Tip: Read it -> make proposals -> make the project better! :rocket:

@@ -3,7 +3,7 @@
 
 ## Ideology :earth_africa:
 
-We believe that people _(not corporations)_ can create innovative, open-source,
+We believe that people _(not only corporations)_ can create innovative, open-source,
 and free software that can make the world a better place.
 
 **We want Ivy to be:**
@@ -18,7 +18,6 @@ and free software that can make the world a better place.
 - Freedom.
 - Creativity & Innovation.
 - Challenging the status quo.
-- Decentralization.
 - Having the right to do what you believe in, not what you're told to.
 
 ## Our Apps
@@ -35,5 +34,3 @@ Be the change! Join our [Telegram community](https://t.me/+ETavgioAvWg4NThk), co
 tell us how we can create a better environment for developers & creators to work together.
 
 ### [Ivy Telegram Community](https://t.me/+ETavgioAvWg4NThk)
-
-### [Ivy Telegram News](https://t.me/ivywallet)

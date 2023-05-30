@@ -10,8 +10,6 @@ and free software that can make the world a better place.
 
 - A place where you can excel and have fun while contributing to something meaningful.
 - A community where you can express yourself freely and build the future that you want to live in.
-- An open-source project that'll inspire a movement where people can build the software they want
-  and eventually become a DAO where hundreds of developers can work on their own terms.
 
 **We believe in:**
 

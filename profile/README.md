@@ -1,5 +1,5 @@
 # Welcome to Ivy Apps 
-**We build innovative and easy-to-use apps that matter.**
+**We build innovative and easy-to-use apps that matters.**
 
 ## Ideology :earth_africa:
 

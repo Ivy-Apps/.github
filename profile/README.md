@@ -28,7 +28,7 @@ and free software that can make the world a better place.
 
 ## Community
 
-Be the change! Join our [Telegram community](https://t.me/+ETavgioAvWg4NThk), comment on our [GitHub repo](https://github.com/Ivy-Apps/ivy-wallet), and
+Be the change! Join our [Telegram community](https://t.me/+ETavgioAvWg4NThk), comment on our [Ivy Wallet GitHub repo](https://github.com/Ivy-Apps/ivy-wallet), and
 tell us how we can create a better environment for developers & creators to work together.
 
 [![Telegram Group](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+ETavgioAvWg4NThk)

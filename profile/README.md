@@ -14,6 +14,12 @@ We try to build innovative and easy-to-use open-source apps that matter.
     [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
     [![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Ivy-Apps/compose-hammer/blob/main/CONTRIBUTING.md)
 
+## Open-source Education
+
+- ### [Android Guidebook](https://github.com/Ivy-Apps/android-guidebook)
+    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+    [![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Ivy-Apps/android-guidebook/blob/main/CONTRIBUTING.md)
+
 ## Need an app?
 
 Contact us at `business@ivy-apps.com` and ask for a quote.

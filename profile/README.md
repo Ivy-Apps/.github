@@ -14,6 +14,9 @@ We try to build innovative and easy-to-use open-source apps that matter.
     [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
     [![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Ivy-Apps/compose-hammer/blob/main/CONTRIBUTING.md)
 
+- ### [PocketVibe AI](https://play.google.com/store/apps/details?id=ivy.pocketvibe&hl=en)
+    [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=ivy.pocketvibe&hl=en)
+
 ## Open-source Education
 
 - ### [Android Guidebook](https://github.com/Ivy-Apps/android-guidebook)

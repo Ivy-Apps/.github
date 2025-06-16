@@ -13,3 +13,7 @@ We try to build innovative and easy-to-use open-source apps that matter.
     [![JetBrains Marketplace](https://img.shields.io/badge/JetBrains%20Marketplace-Compose%20Hammer-blue?logo=jetbrains)](https://plugins.jetbrains.com/plugin/21912-compose-hammer)
     [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
     [![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Ivy-Apps/compose-hammer/blob/main/CONTRIBUTING.md)
+
+## Need an app?
+
+Contact us at business@ivy-apps.com.

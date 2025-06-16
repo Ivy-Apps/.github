@@ -16,4 +16,4 @@ We try to build innovative and easy-to-use open-source apps that matter.
 
 ## Need an app?
 
-Contact us at business@ivy-apps.com.
+Contact us at `business@ivy-apps.com` and ask for a quote.

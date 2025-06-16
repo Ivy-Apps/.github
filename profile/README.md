@@ -23,6 +23,9 @@ We try to build innovative and easy-to-use open-source apps that matter.
     [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     [![PRs welcome!](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Ivy-Apps/android-guidebook/blob/main/CONTRIBUTING.md)
 
+- ### [Ivy Wallet Developer Guidelines](https://github.com/Ivy-Apps/ivy-wallet/blob/main/docs/Guidelines.md)
+    [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 ## Need an app?
 
 Contact us at `business@ivy-apps.com` and ask for a quote.
